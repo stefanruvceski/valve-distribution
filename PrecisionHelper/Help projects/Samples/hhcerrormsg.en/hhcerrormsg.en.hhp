@@ -1,0 +1,24 @@
+[OPTIONS]
+Binary TOC=No
+Binary Index=Yes
+Compiled file=hhcerrormsg.en.chm
+Contents file=hhcerrormsg.en.hhc
+Index file=
+Default window=
+Default topic=html\main.htm
+Full-text search=Yes
+Auto index=No
+Language=0x0409 Angliètina (Spojené státy)
+Title=Html Help Compiler Error Message Reference
+Create CHI file=No
+Compatibility=1.1 or later
+Error log file=hhcerrormsg.en.log
+Full text search stop list file=
+Display compile progress=Yes
+Display compile notes=Yes
+Enhanced decompilation=No
+Flat=No
+
+[FILES]
+global\errors.css
+

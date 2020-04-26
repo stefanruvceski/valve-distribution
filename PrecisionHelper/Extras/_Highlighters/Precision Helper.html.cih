@@ -1,0 +1,515 @@
+[Keywords]
+
+[InsertList]
+<!-- | -->
+<!DOCTYPE |>
+<a>|</a>
+<abbr>|</abbr>
+<acronym>|</acronym>
+<address>|</address>
+<applet>|</applet>
+<area |/>
+<b>|</b>
+<base |/>
+<basefont |/>
+<bdo>|</bdo>
+<big>|</big>
+<blockquote>|</blockquote>
+<body>|</body>
+<br |/>
+<button>|</button>
+<caption>|</caption>
+<center>|</center>
+<cite>|</cite>
+<code>|</code>
+<col |/>
+<colgroup>|</colgroup>
+<dd>|</dd>
+<del>|</del>
+<dfn>|</dfn>
+<dir>|</dir>
+<div>|</div>
+<dl>|</dl>
+<dt>|</dt>
+<em>|</em>
+<fieldset>|</fieldset>
+<font>|</font>
+<form>|</form>
+<frame |/>
+<frameset>|</frameset>
+<h1>|</h1>
+<h2>|</h2>
+<h3>|</h3>
+<h4>|</h4>
+<h5>|</h5>
+<h6>|</h6>
+<head>|</head>
+<hr |/>
+<html>|</html>
+<i>|</i>
+<iframe>|</iframe>
+<img |/>
+<input |/>
+<ins>|</ins>
+<isindex>|</isindex>
+<kbd>|</kbd>
+<label>|</label>
+<legend>|</legend>
+<li>|</li>
+<link |/>
+<map>|</map>
+<menu>|</menu>
+<meta |/>
+<noframes>|</noframes>
+<noscript>|</noscript>
+<object>|</object>
+<ol>|</ol>
+<optgroup>|</optgroup>
+<option>|</option>
+<p>|</p>
+<param |/>
+<pre>|</pre>
+<q>|</q>
+<s>|</s>
+<samp>|</samp>
+<script>|</script>
+<select>|</select>
+<small>|</small>
+<span>|</span>
+<strike>|</strike>
+<strong>|</strong>
+<style>|</style>
+<sub>|</sub>
+<sup>|</sup>
+<table>|</table>
+<tbody>|</tbody>
+<td>|</td>
+<textarea>|</textarea>
+<tfoot>|</tfoot>
+<th>|</th>
+<thead>|</thead>
+<title>|</title>
+<tr>|</tr>
+<tt>|</tt>
+<u>|</u>
+<ul>|</ul>
+<var>|</var>
+<xmp>|</xmp>
+abbr="|"
+accept-charset="|"
+accept="|"
+accesskey="|"
+action="|"
+align="|"
+alink="|"
+alt="|"
+archive="|"
+axis="|"
+background="|"
+bgcolor="|"
+border="|"
+cellpadding="|"
+cellspacing="|"
+char="|"
+charoff="|"
+charset="|"
+checked="|"
+cite="|"
+class="|"
+classid="|"
+clear="|"
+code="|"
+codebase="|"
+codetype="|"
+color="|"
+cols="|"
+colspan="|"
+compact="|"
+content="|"
+coords="|"
+data="|"
+datetime="|"
+declare="|"
+defer="|"
+dir="|"
+disabled="|"
+enctype="|"
+face="|"
+for="|"
+frame="|"
+frameborder="|"
+headers="|"
+height="|"
+href="|"
+hreflang="|"
+hspace="|"
+http-equiv="|"
+id="|"
+ismap="|"
+label="|"
+lang="|"
+language="|"
+link="|"
+longdesc="|"
+marginheight="|"
+marginwidth="|"
+maxlength="|"
+media="|"
+method="|"
+multiple="|"
+name="|"
+nohref="|"
+noresize="|"
+noshade="|"
+nowrap="|"
+object="|"
+onblur="|"
+onchange="|"
+onclick="|"
+ondblclick="|"
+onfocus="|"
+onkeydown="|"
+onkeypress="|"
+onkeyup="|"
+onload="|"
+onload="|"
+onmousedown="|"
+onmousemove="|"
+onmouseout="|"
+onmouseover="|"
+onmouseup="|"
+onreset="|"
+onselect="|"
+onsubmit="|"
+onunload="|"
+onunload="|"
+profile="|"
+prompt="|"
+readonly="|"
+rel="|"
+rev="|"
+rows="|"
+rowspan="|"
+rules="|"
+scheme="|"
+scope="|"
+scrolling="|"
+selected="|"
+shape="|"
+shape="|"
+size="|"
+span="|"
+src="|"
+standby="|"
+start="|"
+style="|"
+summary="|"
+tabindex="|"
+target="|"
+text="|"
+title="|"
+type="|"
+usemap="|"
+valign="|"
+value="|"
+valuetype="|"
+version="|"
+vlink="|"
+vspace="|"
+width="|"
+&quot;
+&apos;
+&amp;
+&lt;
+&gt;
+&nbsp;
+&iexcl;
+&cent;
+&pound;
+&curren;
+&yen;
+&brvbar;
+&sect;
+&uml;
+&copy;
+&ordf;
+&laquo;
+&not;
+&shy;
+&reg;
+&macr;
+&deg;
+&plusmn;
+&sup2;
+&sup3;
+&acute;
+&micro;
+&para;
+&middot;
+&cedil;
+&sup1;
+&ordm;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+
+[ItemList]
+\image{8}\style{+B}!--\style{-B} : Defines a comment
+\image{8}\style{+B}!DOCTYPE\style{-B} : Defines the document type
+\image{10}\style{+B}a\style{-B} : Defines an anchor
+\image{10}\style{+B}abbr\style{-B} : Defines an abbreviation
+\image{10}\style{+B}acronym\style{-B} : Defines an acronym
+\image{10}\style{+B}address\style{-B} : Defines contact information for the author/owner of a document
+\image{10}\style{+B}applet\style{-B} : Deprecated. Defines an embedded applet
+\image{10}\style{+B}area\style{-B} : Defines an area inside an image-map
+\image{10}\style{+B}b\style{-B} : Defines bold text
+\image{10}\style{+B}base\style{-B} : Defines a default address or a default target for all links on a page
+\image{10}\style{+B}basefont\style{-B} : Deprecated. Defines a default font, color, or size for the text in a page
+\image{10}\style{+B}bdo\style{-B} : Defines the text direction
+\image{10}\style{+B}big\style{-B} : Defines big text
+\image{10}\style{+B}blockquote\style{-B} : Defines a long quotation
+\image{10}\style{+B}body\style{-B} : Defines the document's body
+\image{10}\style{+B}br\style{-B} : Defines a single line break
+\image{10}\style{+B}button\style{-B} : Defines a push button
+\image{10}\style{+B}caption\style{-B} : Defines a table caption
+\image{10}\style{+B}center\style{-B} : Deprecated. Defines centered text
+\image{10}\style{+B}cite\style{-B} : Defines a citation
+\image{10}\style{+B}code\style{-B} : Defines computer code text
+\image{10}\style{+B}col\style{-B} : Defines attribute values for one or more columns in a table
+\image{10}\style{+B}colgroup\style{-B} : Defines a group of columns in a table for formatting
+\image{10}\style{+B}dd\style{-B} : Defines a description of a term in a definition list
+\image{10}\style{+B}del\style{-B} : Defines deleted text
+\image{10}\style{+B}dfn\style{-B} : Defines a definition term
+\image{10}\style{+B}dir\style{-B} : Deprecated. Defines a directory list
+\image{10}\style{+B}div\style{-B} : Defines a section in a document
+\image{10}\style{+B}dl\style{-B} : Defines a definition list
+\image{10}\style{+B}dt\style{-B} : Defines a term (an item) in a definition list
+\image{10}\style{+B}em\style{-B} : Defines emphasized text
+\image{10}\style{+B}fieldset\style{-B} : Defines a border around elements in a form
+\image{10}\style{+B}font\style{-B} : Deprecated. Defines font, color, and size for text
+\image{10}\style{+B}form\style{-B} : Defines an HTML form for user input
+\image{10}\style{+B}frame\style{-B} : Defines a window (a frame) in a frameset
+\image{10}\style{+B}frameset\style{-B} : Defines a set of frames
+\image{10}\style{+B}h1\style{-B} : Defines HTML headings
+\image{10}\style{+B}h2\style{-B} : Defines HTML headings
+\image{10}\style{+B}h3\style{-B} : Defines HTML headings
+\image{10}\style{+B}h4\style{-B} : Defines HTML headings
+\image{10}\style{+B}h5\style{-B} : Defines HTML headings
+\image{10}\style{+B}h6\style{-B} : Defines HTML headings
+\image{10}\style{+B}head\style{-B} : Defines information about the document
+\image{10}\style{+B}hr\style{-B} : Defines a horizontal line
+\image{10}\style{+B}html\style{-B} : Defines an HTML document
+\image{10}\style{+B}i\style{-B} : Defines italic text
+\image{10}\style{+B}iframe\style{-B} : Defines an inline frame
+\image{10}\style{+B}img\style{-B} : Defines an image
+\image{10}\style{+B}input\style{-B} : Defines an input control
+\image{10}\style{+B}ins\style{-B} : Defines inserted text
+\image{10}\style{+B}isindex\style{-B} : Deprecated. Defines a searchable index related to a document
+\image{10}\style{+B}kbd\style{-B} : Defines keyboard text
+\image{10}\style{+B}label\style{-B} : Defines a label for an input element
+\image{10}\style{+B}legend\style{-B} : Defines a caption for a fieldset element
+\image{10}\style{+B}li\style{-B} : Defines a list item
+\image{10}\style{+B}link\style{-B} : Defines the relationship between a document and an external resource
+\image{10}\style{+B}map\style{-B} : Defines an image-map
+\image{10}\style{+B}menu\style{-B} : Deprecated. Defines a menu list
+\image{10}\style{+B}meta\style{-B} : Defines metadata about an HTML document
+\image{10}\style{+B}noframes\style{-B} : Defines an alternate content for users that do not support frames
+\image{10}\style{+B}noscript\style{-B} : Defines an alternate content for users that do not support client-side scripts
+\image{10}\style{+B}object\style{-B} : Defines an embedded object
+\image{10}\style{+B}ol\style{-B} : Defines an ordered list
+\image{10}\style{+B}optgroup\style{-B} : Defines a group of related options in a select list
+\image{10}\style{+B}option\style{-B} : Defines an option in a select list
+\image{10}\style{+B}p\style{-B} : Defines a paragraph
+\image{10}\style{+B}param\style{-B} : Defines a parameter for an object
+\image{10}\style{+B}pre\style{-B} : Defines preformatted text
+\image{10}\style{+B}q\style{-B} : Defines a short quotation
+\image{10}\style{+B}s\style{-B} : Deprecated. Defines strikethrough text
+\image{10}\style{+B}samp\style{-B} : Defines sample computer code
+\image{10}\style{+B}script\style{-B} : Defines a client-side script
+\image{10}\style{+B}select\style{-B} : Defines a select list (drop-down list)
+\image{10}\style{+B}small\style{-B} : Defines small text
+\image{10}\style{+B}span\style{-B} : Defines a section in a document
+\image{10}\style{+B}strike\style{-B} : Deprecated. Defines strikethrough text
+\image{10}\style{+B}strong\style{-B} : Defines strong text
+\image{10}\style{+B}style\style{-B} : Defines style information for a document
+\image{10}\style{+B}sub\style{-B} : Defines subscripted text
+\image{10}\style{+B}sup\style{-B} : Defines superscripted text
+\image{10}\style{+B}table\style{-B} : Defines a table
+\image{10}\style{+B}tbody\style{-B} : Groups the body content in a table
+\image{10}\style{+B}td\style{-B} : Defines a cell in a table
+\image{10}\style{+B}textarea\style{-B} : Defines a multi-line text input control
+\image{10}\style{+B}tfoot\style{-B} : Groups the footer content in a table
+\image{10}\style{+B}th\style{-B} : Defines a header cell in a table
+\image{10}\style{+B}thead\style{-B} : Groups the header content in a table
+\image{10}\style{+B}title\style{-B} : Defines the title of a document
+\image{10}\style{+B}tr\style{-B} : Defines a row in a table
+\image{10}\style{+B}tt\style{-B} : Defines teletype text
+\image{10}\style{+B}u\style{-B} : Deprecated. Defines underlined text
+\image{10}\style{+B}ul\style{-B} : Defines an unordered list
+\image{10}\style{+B}var\style{-B} : Defines a variable part of a text
+\image{10}\style{+B}xmp\style{-B} : Deprecated. Defines preformatted text
+\image{9}\style{+B}abbr\style{-B} : Attribute: abbreviation for header cell
+\image{9}\style{+B}accept-charset\style{-B} : Attribute: list of supported charsets
+\image{9}\style{+B}accept\style{-B} : Attribute: list of MIME types for file upload
+\image{9}\style{+B}accesskey\style{-B} : Attribute: accessibility key character
+\image{9}\style{+B}action\style{-B} : Attribute: server-side form handler
+\image{9}\style{+B}align\style{-B} : Attribute: align, text alignment
+\image{9}\style{+B}alink\style{-B} : Attribute: color of selected links
+\image{9}\style{+B}alt\style{-B} : Attribute: short description
+\image{9}\style{+B}archive\style{-B} : Attribute: archive list
+\image{9}\style{+B}axis\style{-B} : Attribute: comma-separated list of related headers
+\image{9}\style{+B}background\style{-B} : Attribute: texture tile for document background
+\image{9}\style{+B}bgcolor\style{-B} : Attribute: background color
+\image{9}\style{+B}border\style{-B} : Attribute: border width
+\image{9}\style{+B}cellpadding\style{-B} : Attribute: spacing within cells
+\image{9}\style{+B}cellspacing\style{-B} : Attribute: spacing between cells
+\image{9}\style{+B}char\style{-B} : Attribute: alignment char, e.g. char=':'
+\image{9}\style{+B}charoff\style{-B} : Attribute: offset for alignment char
+\image{9}\style{+B}charset\style{-B} : Attribute: char encoding of linked resource
+\image{9}\style{+B}checked\style{-B} : Attribute: for radio buttons and check boxes
+\image{9}\style{+B}cite\style{-B} : Attribute: info on reason for change
+\image{9}\style{+B}class\style{-B} : Attribute: space-separated list of classes
+\image{9}\style{+B}classid\style{-B} : Attribute: identifies an implementation
+\image{9}\style{+B}clear\style{-B} : Attribute: control of text flow
+\image{9}\style{+B}code\style{-B} : Attribute: applet class file
+\image{9}\style{+B}codebase\style{-B} : Attribute: base URI for classid, data, archive, applet
+\image{9}\style{+B}codetype\style{-B} : Attribute: content type for code
+\image{9}\style{+B}color\style{-B} : Attribute: text color
+\image{9}\style{+B}cols\style{-B} : Attribute: list of lengths, default: 100% (1 col)
+\image{9}\style{+B}colspan\style{-B} : Attribute: number of cols spanned by cell
+\image{9}\style{+B}compact\style{-B} : Attribute: reduced interitem spacing
+\image{9}\style{+B}content\style{-B} : Attribute: associated information
+\image{9}\style{+B}coords\style{-B} : Attribute: comma-separated list of lengths
+\image{9}\style{+B}data\style{-B} : Attribute: reference to object's data
+\image{9}\style{+B}datetime\style{-B} : Attribute: date and time of change
+\image{9}\style{+B}declare\style{-B} : Attribute: declare but don't instantiate flag
+\image{9}\style{+B}defer\style{-B} : Attribute: UA may defer execution of script
+\image{9}\style{+B}dir\style{-B} : Attribute: direction for weak/neutral text
+\image{9}\style{+B}disabled\style{-B} : Attribute: unavailable in this context
+\image{9}\style{+B}enctype\style{-B} : Attribute:
+\image{9}\style{+B}face\style{-B} : Attribute: comma-separated list of font names
+\image{9}\style{+B}for\style{-B} : Attribute: matches field ID value
+\image{9}\style{+B}frame\style{-B} : Attribute: which parts of frame to render
+\image{9}\style{+B}frameborder\style{-B} : Attribute: request frame borders?
+\image{9}\style{+B}headers\style{-B} : Attribute: list of id's for header cells
+\image{9}\style{+B}height\style{-B} : Attribute: height
+\image{9}\style{+B}href\style{-B} : Attribute: URI for linked resource
+\image{9}\style{+B}hreflang\style{-B} : Attribute: language code
+\image{9}\style{+B}hspace\style{-B} : Attribute: horizontal gutter
+\image{9}\style{+B}http-equiv\style{-B} : Attribute: HTTP response header name
+\image{9}\style{+B}id\style{-B} : Attribute: document-wide unique id
+\image{9}\style{+B}ismap\style{-B} : Attribute: use server-side image map
+\image{9}\style{+B}label\style{-B} : Attribute: for use in hierarchical menus
+\image{9}\style{+B}lang\style{-B} : Attribute: language code
+\image{9}\style{+B}language\style{-B} : Attribute: predefined script language name
+\image{9}\style{+B}link\style{-B} : Attribute: color of links
+\image{9}\style{+B}longdesc\style{-B} : Attribute: link to long description (complements alt and title)
+\image{9}\style{+B}marginheight\style{-B} : Attribute: margin height in pixels
+\image{9}\style{+B}marginwidth\style{-B} : Attribute: margin widths in pixels
+\image{9}\style{+B}maxlength\style{-B} : Attribute: max chars for text fields
+\image{9}\style{+B}media\style{-B} : Attribute: designed for use with these media
+\image{9}\style{+B}method\style{-B} : Attribute: HTTP method used to submit the form
+\image{9}\style{+B}multiple\style{-B} : Attribute: default is single selection
+\image{9}\style{+B}name\style{-B} : Attribute: field name
+\image{9}\style{+B}nohref\style{-B} : Attribute: this region has no action
+\image{9}\style{+B}noresize\style{-B} : Attribute: allow users to resize frames?
+\image{9}\style{+B}noshade\style{-B} : Attribute:
+\image{9}\style{+B}nowrap\style{-B} : Attribute: suppress word wrap
+\image{9}\style{+B}object\style{-B} : Attribute: serialized applet file
+\image{9}\style{+B}onblur\style{-B} : Attribute: the element lost the focus
+\image{9}\style{+B}onchange\style{-B} : Attribute: the element value was changed
+\image{9}\style{+B}onclick\style{-B} : Attribute: a pointer button was clicked
+\image{9}\style{+B}ondblclick\style{-B} : Attribute: a pointer button was double clicked
+\image{9}\style{+B}onfocus\style{-B} : Attribute: the element got the focus
+\image{9}\style{+B}onkeydown\style{-B} : Attribute: a key was pressed down
+\image{9}\style{+B}onkeypress\style{-B} : Attribute: a key was pressed and released
+\image{9}\style{+B}onkeyup\style{-B} : Attribute: a key was released
+\image{9}\style{+B}onload\style{-B} : Attribute: all the frames have been loaded
+\image{9}\style{+B}onload\style{-B} : Attribute: the document has been loaded
+\image{9}\style{+B}onmousedown\style{-B} : Attribute: a pointer button was pressed down
+\image{9}\style{+B}onmousemove\style{-B} : Attribute: a pointer was moved within
+\image{9}\style{+B}onmouseout\style{-B} : Attribute: a pointer was moved away
+\image{9}\style{+B}onmouseover\style{-B} : Attribute: a pointer was moved onto
+\image{9}\style{+B}onmouseup\style{-B} : Attribute: a pointer button was released
+\image{9}\style{+B}onreset\style{-B} : Attribute: the form was reset
+\image{9}\style{+B}onselect\style{-B} : Attribute: some text was selected
+\image{9}\style{+B}onsubmit\style{-B} : Attribute: the form was submitted
+\image{9}\style{+B}onunload\style{-B} : Attribute: all the frames have been removed
+\image{9}\style{+B}onunload\style{-B} : Attribute: the document has been removed
+\image{9}\style{+B}profile\style{-B} : Attribute: named dictionary of meta info
+\image{9}\style{+B}prompt\style{-B} : Attribute: prompt message
+\image{9}\style{+B}readonly\style{-B} : Attribute: for text and passwd
+\image{9}\style{+B}rel\style{-B} : Attribute: forward link types
+\image{9}\style{+B}rev\style{-B} : Attribute: reverse link types
+\image{9}\style{+B}rows\style{-B} : Attribute: list of lengths, default: 100% (1 row)
+\image{9}\style{+B}rowspan\style{-B} : Attribute: number of rows spanned by cell
+\image{9}\style{+B}rules\style{-B} : Attribute: rulings between rows and cols
+\image{9}\style{+B}scheme\style{-B} : Attribute: select form of content
+\image{9}\style{+B}scope\style{-B} : Attribute: scope covered by header cells
+\image{9}\style{+B}scrolling\style{-B} : Attribute: scrollbar or none
+\image{9}\style{+B}selected\style{-B} : Attribute:
+\image{9}\style{+B}shape\style{-B} : Attribute: controls interpretation of coords
+\image{9}\style{+B}shape\style{-B} : Attribute: for use with client-side image maps
+\image{9}\style{+B}size\style{-B} : Attribute: specific to each type of field
+\image{9}\style{+B}span\style{-B} : Attribute:
+\image{9}\style{+B}src\style{-B} : Attribute: URI of image to embed
+\image{9}\style{+B}standby\style{-B} : Attribute: message to show while loading
+\image{9}\style{+B}start\style{-B} : Attribute: starting sequence number
+\image{9}\style{+B}style\style{-B} : Attribute: associated style info
+\image{9}\style{+B}summary\style{-B} : Attribute: purpose/structure for speech output
+\image{9}\style{+B}tabindex\style{-B} : Attribute: position in tabbing order
+\image{9}\style{+B}target\style{-B} : Attribute: render in this frame
+\image{9}\style{+B}text\style{-B} : Attribute: document text color
+\image{9}\style{+B}title\style{-B} : Attribute: advisory title
+\image{9}\style{+B}type\style{-B} : Attribute: advisory content type
+\image{9}\style{+B}usemap\style{-B} : Attribute: use client-side image map
+\image{9}\style{+B}valign\style{-B} : Attribute: vertical alignment in cells
+\image{9}\style{+B}value\style{-B} : Attribute: property value
+\image{9}\style{+B}valuetype\style{-B} : Attribute: How to interpret value
+\image{9}\style{+B}version\style{-B} : Attribute: Constant
+\image{9}\style{+B}vlink\style{-B} : Attribute: color of visited links
+\image{9}\style{+B}vspace\style{-B} : Attribute: vertical gutter
+\image{9}\style{+B}width\style{-B} : Attribute: initial width
+\image{11}\style{+B}&quot;\style{-B} : (") quotation mark
+\image{11}\style{+B}&apos;\style{-B} : (') apostrophe (does not work in IE)
+\image{11}\style{+B}&amp;\style{-B} : (&) ampersand
+\image{11}\style{+B}&lt;\style{-B} : (<) less-than
+\image{11}\style{+B}&gt;\style{-B} : (>) greater-than
+\image{11}\style{+B}&nbsp;\style{-B} : non-breaking space
+\image{11}\style{+B}&iexcl;\style{-B} : inverted exclamation mark
+\image{11}\style{+B}&cent;\style{-B} : cent
+\image{11}\style{+B}&pound;\style{-B} : pound
+\image{11}\style{+B}&curren;\style{-B} : currency
+\image{11}\style{+B}&yen;\style{-B} : yen
+\image{11}\style{+B}&brvbar;\style{-B} : broken vertical bar
+\image{11}\style{+B}&sect;\style{-B} : section
+\image{11}\style{+B}&uml;\style{-B} : spacing diaeresis
+\image{11}\style{+B}&copy;\style{-B} : copyright
+\image{11}\style{+B}&ordf;\style{-B} : feminine ordinal indicator
+\image{11}\style{+B}&laquo;\style{-B} : angle quotation mark (left)
+\image{11}\style{+B}&not;\style{-B} : negation
+\image{11}\style{+B}&shy;\style{-B} : soft hyphen
+\image{11}\style{+B}&reg;\style{-B} : registered trademark
+\image{11}\style{+B}&macr;\style{-B} : spacing macron
+\image{11}\style{+B}&deg;\style{-B} : degree
+\image{11}\style{+B}&plusmn;\style{-B} : plus-or-minus 
+\image{11}\style{+B}&sup2;\style{-B} : superscript 2
+\image{11}\style{+B}&sup3;\style{-B} : superscript 3
+\image{11}\style{+B}&acute;\style{-B} : spacing acute
+\image{11}\style{+B}&micro;\style{-B} : micro
+\image{11}\style{+B}&para;\style{-B} : paragraph
+\image{11}\style{+B}&middot;\style{-B} : middle dot
+\image{11}\style{+B}&cedil;\style{-B} : spacing cedilla
+\image{11}\style{+B}&sup1;\style{-B} : superscript 1
+\image{11}\style{+B}&ordm;\style{-B} : masculine ordinal indicator
+\image{11}\style{+B}&raquo;\style{-B} : angle quotation mark (right)
+\image{11}\style{+B}&frac14;\style{-B} : fraction 1/4
+\image{11}\style{+B}&frac12;\style{-B} : fraction 1/2
+\image{11}\style{+B}&frac34;\style{-B} : fraction 3/4
+\image{11}\style{+B}&iquest;\style{-B} : inverted question mark
+\image{11}\style{+B}&times;\style{-B} : multiplication
+\image{11}\style{+B}&divide;\style{-B} : division

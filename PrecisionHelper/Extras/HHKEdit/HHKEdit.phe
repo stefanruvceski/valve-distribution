@@ -1,0 +1,31 @@
+﻿[Precision Helper Extension]
+Interface=cmdline
+
+Caption=Edit HHK
+Caption.cs=Upravit HHK
+Hint=Open an index of keywords source file in an external html editor
+Hint.cs=Otevřít zdrojový soubor rejstříku v externím html editoru
+
+[Script]
+ExecOnLoad=0
+
+[Application]
+%1%
+
+[Command-line]
+Parameters="%5"
+waitfor=0
+saveTOC=0
+saveIDX=1
+saveProject=0
+saveTopic=0
+reloadTOC=0
+reloadIDX=1
+reloadProject=0
+reloadTopic=0
+
+[IDE]
+ribbonTOC=0
+ribbonIDX=1
+ribbonPUB=0
+

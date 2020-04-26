@@ -1,0 +1,14 @@
+﻿[Precision Helper Extension]
+Interface=pascalscript
+
+Caption=Date and time
+Hint=Insert the current date and time
+
+Caption.cs=Datum a čas
+Hint.cs=Vložit aktuální datum a čas
+
+[Script]
+ExecOnLoad=0
+
+[IDE]
+TopicSource=1

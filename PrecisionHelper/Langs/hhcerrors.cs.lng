@@ -1,0 +1,171 @@
+﻿[precision language file]
+languagename=Čeština
+rtl=0
+description=chybová hlášení kompilátoru hhc.exe
+fileversion=1.0.1.1
+author=Precision software & consulting
+
+[messages]
+*<PARAM> tag appears outside of an <OBJECT> tag.
+*<PARAM> element je použit mimo <OBJECT> element.
+
+*A comment tag (<!--) is missing the close comment tag (-->>).
+*Element komentáře (<!--) neobsahuje ukončovací značku (-->>).
+
+*An empty HTML tag has been used.
+*Byl použit prázdný HTML element.
+
+*An error occurred attempting to create an internal file. Make certain there is enough disk space on the drive where you are compiling your file.
+*Při pokusu o vytvoření interního souboru nastala chyba. Ujistěte se, že je dostatek místa na disku, kde vytváříte výsledný soubor Vaší nápovědy (.CHM).
+
+*An information type in your project hasn't been created as part of a category.
+*Informační typ ve Vašem projektu nebyl vytvořen v rámci kategorie.
+
+*An internal file could not be created. Make certain there is enough disk space on the drive where you are compiling your file.
+*Při pokusu o vytvoření interního souboru nastala chyba. Ujistěte se, že je dostatek místa na disku, kde vytváříte výsledný soubor Vaší nápovědy (.CHM).
+
+*An unknown error occured while creating the full-text search data.
+*Nastala neznámá chyba při vytváření rejstříku fulltextového vyhledávání.
+
+*An unknown error occured while creating the index.
+*Nastala neznámá chyba při vytváření rejstříku.
+
+*Archive compilation failure: ID exceeds maximum allowable length:
+*Chyba kompilace archívu: ID překročilo maximum povolené délky:
+
+*Cannot create a temporary file in your TEMP path.
+*Nelze vytvořit pomocný soubor v zadané pracovní složce (TEMP).
+
+*Fatal Navigational Compilation Error. This is likely the result of an invalid .HHC file.
+*Závažná chyba navigační chyba kompilace. S největší pravděpodobností je výsledkem špatně definovaného souboru obsahu (.HHC).
+
+*Fatal navigational compilation error. This is likely the result of an invalid contents (.hhc) file.
+*Závažná chyba navigační chyba kompilace. S největší pravděpodobností je výsledkem špatně definovaného souboru obsahu (.HHC).
+
+*Infotype compilation has failed. A maximum of 65,536 unique infotype combinations has been exceeded.
+*Kompilace informačního typu selhala. Bylo překročeno maximum (65536) možných unikátních kombinací informačních typů.
+
+*Negative context ids are invalid: "*"</SPAN>
+*Záporné kontextové identifikátory nejsou podporovány: "*"</SPAN>
+
+*Sample staging directory not specified in [OPTIONS] section of the project file.
+*Umístění pro vzroky (samples) není v sekci [OPTIONS] projektového souboru zadáno. Vzorek "*" nebude zkompilován.
+
+*Split file is missing a <TITLE> tag.
+*Rozdělení souboru postrádá značku <TITLE>.
+
+*The alias "*" is defined more than once. Only the first alias will be used.
+*Alias "*" je definován vícekrát. Použita bude jen první definice.
+
+*The file itcc.dll has not been registered correctly.
+*Knihovna itcc.dll není správně registrována.
+
+*The file itircl.dll has not been registered correctly.
+*Knihovna itircl.dll není správně registrována.
+
+*The following alias line does not contain an '=' character separating the Topic IDs: "*".
+*Následující alias neobsahuje znak '=', jenž odděluje identifikátory témat: "*".
+
+*The following map definition has an invalid context id: "*"
+*Následující definice mapování má neplatný kontextový identifikátor: "*"
+
+*The following option line does not contain an '=' character separating the option and its value: "*"
+*Následující řádek volby nastavení neobsahuje znak '=' oddělující volbu od její hodnoty: "*"
+
+*The following window line does not contain an '=' character separating the option and its value: "*"
+*Následující definice typu okna neobsahuje znak '=' oddělující typ okna od jeho definice: "*".
+
+*The HTML end tag "*" has invalid characters before the closing angle bracket (>).
+*HTML značka "*" obsahuje neplatné znaky před ukončovacím znakem (>).
+
+*The HTML tag "*" has invalid characters appearing before the closing angle bracket: "*"
+*HTML značka "název-značky" obsahuje neplatné znaky: "*"
+
+*The HTML tag "*" is missing a closing angle bracket.
+*HTML značka "*" neobsahuje ukončovací znak.
+
+*The HTML tag "*" is not a valid HTML tag (it does not begin with an alphanumeric character).
+*HTML značka "*" není platná (nezačíná alfanumerickým znakem).
+
+*The option "*" is not recognized.
+*Volba nastavení "*" nebyla rozpoznána.
+
+*The section "*" is unrecognized.
+*Sekce "*" nebyla rozpoznána.
+
+*TOC Error: Level increments by more than one on line: "*"
+*Chyba obsahu (TOC): Téma (nebo katpitola) je odsazeno o více než jednu úroveň na řádku: "*".
+
+*Unable to locate a topic entry for the node "*" URL. This topic is missing from the compiled .CHM file.
+*Téma s uvedenou URL cestou nebylo nalezeno "*". Toto téma není v kompilovaném souboru .CHM k dispozici.
+
+*Your TEMP path is invalid.
+*Cesta k pracovní složce (TEMP) je neplatná.
+
+An alias has been created to "*" but the file does not exist
+Byl definován alias pro soubor "*", ale tento soubor neexistuje.
+
+An error occurred while reading "*".
+Nastala chyba při čtení souboru "*".
+
+An error occurred while writing "*" into the compiled HTML file.
+Při zápisu souboru "*" do výsledné nápovědy nastala chyba.
+
+Archive ID: "*" compilation has failed. Archive file(s) location: "*" may be invalid or empty. Possible destination media disk space problem.
+ID archívu: "*" Kompilace se nezdařila. Cesta k souboru: "*" je neplatná nebo prázdná. Možný problém s místem na disku.
+
+Archive ID: "*" compilation has failed. Archives referenced in HTML must be identified in the .HHS file.
+ID archívu: "*" Kompilace se nezdařila. Archívy odkazované z HTML souboru (tématu) musí být zadány v definičním souboru (.HHS).
+
+Archive ID: "*" compilation has failed. Sample missing DistributionMediaDestination entry in the .HHS file.
+ID archívu: "*" Kompilace se nezdařila. Vzorek (sample) nemá zadánu vlastnost DistributionMediaDestination v definičním souboru (.HHS).
+
+Archive ID: "*" Sample missing DefaultClientCopyDestination entry in the .HHS file.
+ID archívu: "*" Vzorek (sample) nemá zadánu vlastnost DefaultClientCopyDestination v definičním souboru (.HHS).
+
+Cannot open "*".
+Nelze otevřít soubor "*".
+
+Cannot open "*". Compilation stopped.
+Nelze otevřít soubor "*". Kompilace byla přerušena.
+
+Cannot open the file "*" in the [Text Popup] section.
+Nelze otevřít soubor "*" v sekci [TEXT POPUPS].
+
+Compilation failed while compiling *.
+Kompilace selhala při zpracování souboru *.
+
+Folder node: "*"
+Uzel složky: "*".
+
+Missing topic id in line "*" of the file "*".
+Chybějící identifikátor tématu na řádku "*" souboru "*".
+
+The file "*" already exists. Please change the name of the split file to something else. The existing file will be stored until this problem is resolved. No additional component files will be stored.
+Soubor "*" již existuje.
+
+The file "*" has a link to a non-existent file: "*."
+Soubor "*" obsahuje odkaz na neexistující soubor: "*".
+
+The file "*" in the [Text Popup] section does not have an extension.
+Soubor "*" v sekci [TEXT POPUPS] nemá uvedenu příponu.
+
+The file "*" in the [Text Popup] section has an unrecognized extension. Only .H and .TXT extensions may be used.
+Soubor "*" v sekci [TEXT POPUPS] má nepodporovanou příponu. Mohou být použity jen přípony .H a .TXT.
+
+The file * has already been specified in the [FILES] section of the project file.
+Soubor * již byl v sekci [FILES] projektového souboru jednou specifikován.
+
+The file * is already listed in the [FILES] section of the project file.
+Soubor * již je v sekci [FILES] projektového souboru specifikován.
+
+The string "*" in line * of the file "*" has not been mapped to a number.
+Řetězec "*" na řádku * souboru "*" není mapován na číslo.
+
+URL reference in the TOC cannot be resolved: "*".
+Adresa URL nebyla rozpoznána: "*".
+
+User cancelled compile.
+Kompilace byla přerušena uživatelem
+
+

@@ -1,0 +1,25 @@
+﻿[Precision Helper Extension]
+Interface=pascalscript
+
+Caption=New from files
+Hint=Create a new help project from an existing topic files
+
+Caption.cs=Nový ze souborů
+Hint.cs=Vytvořit nový projekt nápovědy z existujících souborů témat
+
+Caption.pl=Nowe z plików
+Hint.pl=Tworzenie nowego projektu pomocy istniejących plików temat
+
+Caption.ru=Новый из файлов
+Hint.ru=Создать новый проект помощи существующих файлов темы
+
+[Script]
+ExecOnLoad=0
+
+[IDE]
+ribbonHOME=1
+ribbonTOC=0
+ribbonIDX=0
+ribbonPUB=0
+ribbonTOOLS=1
+ribbonHELP=0

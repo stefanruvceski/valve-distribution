@@ -1,0 +1,82 @@
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.Cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csprojResolveAssemblyReference.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Treci pokusaj\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.baml
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csprojResolveAssemblyReference.cache
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.g.cs
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.baml
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\STEFAN\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.Cache
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csprojResolveAssemblyReference.cache
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.g.cs
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.baml
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\WIN10\Documents\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.Cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csprojResolveAssemblyReference.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.baml
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.g.cs
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\add_remove.baml
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak3\Zadatak3\Zadatak3\HCI PSI PZ3 NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb

@@ -1,0 +1,301 @@
+[OPTIONS]
+Title=Pøíklad nápovìdy
+Compiled file=PrecisionHelper.cs.chm
+Error log file=
+Default topic=topics\default.htm
+Language=0x0405 Èeština
+Full text search stop list file=
+Contents file=Contents.hhc
+Index file=Index.hhk
+Binary TOC=No
+Auto index=No
+Binary Index=Yes
+Create CHI file=No
+Full-text search=Yes
+Display compile progress=Yes
+Display compile notes=Yes
+Default window=main
+Enhanced decompilation=Yes
+Flat=No
+Compatibility=1.1 or later
+Default Font=Tahoma,8,238
+
+[WINDOWS]
+main="","Contents.hhc","Index.hhk","topics\default.htm","topics\default.htm",,,,,0x00063520,264,0x0010304E,[25,25,756,515],,,,0,0,0,0
+
+[FILES]
+Contents.hhc
+Index.hhk
+css\styles_standard.css
+img\about.jpg
+img\apitest.jpg
+img\bottom_line.gif
+img\build.jpg
+img\Certificate.gif
+img\cmdline.gif
+img\cmdline.jpg
+img\context.jpg
+img\credits.jpg
+img\desktop.jpg
+img\errlog.jpg
+img\FeatureList.gif
+img\filesel.jpg
+img\gui.jpg
+img\help.jpg
+img\highlights.jpg
+img\home.jpg
+img\chm.jpg
+img\icon.jpg
+img\idxgen.jpg
+img\impchm.jpg
+img\index.jpg
+img\locprj.jpg
+img\logo.gif
+img\menu.jpg
+img\navbar2.jpg
+img\oi.jpg
+img\options.jpg
+img\otherrefs.jpg
+img\others.jpg
+img\pc.jpg
+img\Pdf.gif
+img\pprops.jpg
+img\prj.jpg
+img\quickbar.jpg
+img\ribbon.jpg
+img\search.jpg
+img\setup.jpg
+img\singledoc.jpg
+img\ss_builds.jpg
+img\ss_compile.jpg
+img\ss_expsd.jpg
+img\ss_files.jpg
+img\ss_gui.jpg
+img\ss_gui2.jpg
+img\ss_changeui01.jpg
+img\ss_changeui02.jpg
+img\ss_changeui03.jpg
+img\ss_changeui04.jpg
+img\ss_changeui05.jpg
+img\ss_chmview.jpg
+img\ss_index.jpg
+img\ss_keysel.jpg
+img\ss_log.jpg
+img\ss_map.jpg
+img\ss_map2.jpg
+img\ss_menu.jpg
+img\ss_navbar.jpg
+img\ss_oi.jpg
+img\ss_options.jpg
+img\ss_printpdf.jpg
+img\ss_prjfiles.jpg
+img\ss_projectlist.jpg
+img\ss_public.jpg
+img\ss_quickkeys.jpg
+img\ss_search.jpg
+img\ss_setup.jpg
+img\ss_setuphhw.jpg
+img\ss_speeddial.jpg
+img\ss_status.jpg
+img\ss_topic.jpg
+img\ss_UI.jpg
+img\ss_welcome_01s.jpg
+img\ss_wintype.jpg
+img\statusbar.jpg
+img\tabs.jpg
+img\toc.jpg
+img\tocgen.jpg
+img\topic.jpg
+img\topicbar.gif
+img\topicbar_left.gif
+img\usec.jpg
+img\webhelp.jpg
+img\welcomeHelper.jpg
+img\wt.jpg
+img\ePUB.jpg
+topics\CmdLine.htm
+topics\Credits.htm
+topics\default.htm
+topics\dialogAbout.htm
+topics\dialogCompile.htm
+topics\dialogKeySel.htm
+topics\dialogOptions.htm
+topics\dialogPrjFiles.htm
+topics\Dialogs.htm
+topics\ExportPDF.htm
+topics\Features.htm
+topics\GUI.htm
+topics\helpBar.htm
+topics\helpBar_Help.htm
+topics\helpBar_Log.htm
+topics\helpBar_OI.htm
+topics\helpBar_Search.htm
+topics\Highlights.htm
+topics\HomePage.htm
+topics\HowToDoIt.htm
+topics\ChangeLog.htm
+topics\ChangeUI.htm
+topics\Installation.htm
+topics\License.htm
+topics\mainForm.htm
+topics\mainMenu.htm
+topics\navBar.htm
+topics\navBar_Builds.htm
+topics\navBar_Files.htm
+topics\navBar_IDX.htm
+topics\navBar_MAP.htm
+topics\navBar_Others.htm
+topics\navBar_TOC.htm
+topics\OtherRefs.htm
+topics\pageBuilds.htm
+topics\pageFiles.htm
+topics\pageMap.htm
+topics\pageMergeFiles.htm
+topics\pageProject.htm
+topics\pageTopic.htm
+topics\pageUSec.htm
+topics\pageWinTypes.htm
+topics\ProjectsList.htm
+topics\quickBar.htm
+topics\ribbonBar.htm
+topics\statusBar.htm
+topics\SysReq.htm
+topics\tabBar.htm
+topics\Tools.htm
+topics\toolsAPITester.htm
+topics\toolsExportSingleDoc.htm
+topics\toolsExportWebHelp.htm
+topics\toolsCHMViewer.htm
+topics\toolsIDXGen.htm
+topics\toolsImportCHM.htm
+topics\toolsLocatePrj.htm
+topics\toolsTOCGen.htm
+topics\toolsExportePUB.htm
+topics\Publishing.htm
+img\PHE.jpg
+topics\Customization.htm
+topics\TemplatesCC.htm
+topics\Extensions.htm
+topics\TemplatesTP.htm
+img\Templates.jpg
+
+[ALIAS]
+IDH_CmdLine=topics\CmdLine.htm
+IDH_Credits=topics\Credits.htm
+IDH_default=topics\default.htm
+IDH_dialogAbout=topics\dialogAbout.htm
+IDH_dialogCompile=topics\dialogCompile.htm
+IDH_dialogKeySel=topics\dialogKeySel.htm
+IDH_dialogOptions=topics\dialogOptions.htm
+IDH_dialogPrjFiles=topics\dialogPrjFiles.htm
+IDH_Dialogs=topics\Dialogs.htm
+IDH_ExportPDF=topics\ExportPDF.htm
+IDH_Features=topics\Features.htm
+IDH_GUI=topics\GUI.htm
+IDH_helpBar=topics\helpBar.htm
+IDH_helpBar_Help=topics\helpBar_Help.htm
+IDH_helpBar_Log=topics\helpBar_Log.htm
+IDH_helpBar_OI=topics\helpBar_OI.htm
+IDH_helpBar_Search=topics\helpBar_Search.htm
+IDH_Highlights=topics\Highlights.htm
+IDH_HomePage=topics\HomePage.htm
+IDH_HowToDoIt=topics\HowToDoIt.htm
+IDH_ChangeLog=topics\ChangeLog.htm
+IDH_ChangeUI=topics\ChangeUI.htm
+IDH_Installation=topics\Installation.htm
+IDH_License=topics\License.htm
+IDH_mainForm=topics\mainForm.htm
+IDH_mainMenu=topics\mainMenu.htm
+IDH_navBar=topics\navBar.htm
+IDH_navBar_Builds=topics\navBar_Builds.htm
+IDH_navBar_Files=topics\navBar_Files.htm
+IDH_navBar_IDX=topics\navBar_IDX.htm
+IDH_navBar_MAP=topics\navBar_MAP.htm
+IDH_navBar_Others=topics\navBar_Others.htm
+IDH_navBar_TOC=topics\navBar_TOC.htm
+IDH_OtherRefs=topics\OtherRefs.htm
+IDH_pageBuilds=topics\pageBuilds.htm
+IDH_pageFiles=topics\pageFiles.htm
+IDH_pageMap=topics\pageMap.htm
+IDH_pageMergeFiles=topics\pageMergeFiles.htm
+IDH_pageProject=topics\pageProject.htm
+IDH_pageTopic=topics\pageTopic.htm
+IDH_pageUSec=topics\pageUSec.htm
+IDH_pageWinTypes=topics\pageWinTypes.htm
+IDH_ProjectsList=topics\ProjectsList.htm
+IDH_quickBar=topics\quickBar.htm
+IDH_ribbonBar=topics\ribbonBar.htm
+IDH_statusBar=topics\statusBar.htm
+IDH_SysReq=topics\SysReq.htm
+IDH_tabBar=topics\tabBar.htm
+IDH_Tools=topics\Tools.htm
+IDH_toolsAPITester=topics\toolsAPITester.htm
+IDH_toolsExportePUB=topics\toolsExportePUB.htm
+IDH_toolsExportSingleDoc=topics\toolsExportSingleDoc.htm
+IDH_toolsExportWebHelp=topics\toolsExportWebHelp.htm
+IDH_toolsCHMViewer=topics\toolsCHMViewer.htm
+IDH_toolsIDXGen=topics\toolsIDXGen.htm
+IDH_toolsImportCHM=topics\toolsImportCHM.htm
+IDH_toolsLocatePrj=topics\toolsLocatePrj.htm
+IDH_toolsTOCGen=topics\toolsTOCGen.htm
+
+[MAP]
+#define IDH_CmdLine 1
+#define IDH_Credits 2
+#define IDH_default 3
+#define IDH_dialogAbout 4
+#define IDH_dialogCompile 5
+#define IDH_dialogKeySel 6
+#define IDH_dialogOptions 7
+#define IDH_dialogPrjFiles 8
+#define IDH_Dialogs 9
+#define IDH_ExportPDF 10
+#define IDH_Features 11
+#define IDH_GUI 12
+#define IDH_helpBar 13
+#define IDH_helpBar_Help 14
+#define IDH_helpBar_Log 15
+#define IDH_helpBar_OI 16
+#define IDH_helpBar_Search 17
+#define IDH_Highlights 18
+#define IDH_HomePage 19
+#define IDH_HowToDoIt 20
+#define IDH_ChangeLog 21
+#define IDH_ChangeUI 22
+#define IDH_Installation 23
+#define IDH_License 24
+#define IDH_mainForm 25
+#define IDH_mainMenu 26
+#define IDH_navBar 27
+#define IDH_navBar_Builds 28
+#define IDH_navBar_Files 29
+#define IDH_navBar_IDX 30
+#define IDH_navBar_MAP 31
+#define IDH_navBar_Others 32
+#define IDH_navBar_TOC 33
+#define IDH_OtherRefs 34
+#define IDH_pageBuilds 35
+#define IDH_pageFiles 36
+#define IDH_pageMap 37
+#define IDH_pageMergeFiles 38
+#define IDH_pageProject 39
+#define IDH_pageTopic 40
+#define IDH_pageUSec 41
+#define IDH_pageWinTypes 42
+#define IDH_ProjectsList 43
+#define IDH_quickBar 44
+#define IDH_ribbonBar 45
+#define IDH_statusBar 46
+#define IDH_SysReq 47
+#define IDH_tabBar 48
+#define IDH_Tools 49
+#define IDH_toolsAPITester 50
+#define IDH_toolsExportePUB 58
+#define IDH_toolsExportSingleDoc 51
+#define IDH_toolsExportWebHelp 52
+#define IDH_toolsCHMViewer 53
+#define IDH_toolsIDXGen 54
+#define IDH_toolsImportCHM 55
+#define IDH_toolsLocatePrj 56
+#define IDH_toolsTOCGen 57
+

@@ -1,0 +1,43 @@
+Precision Helper - Licenèní ujednání
+====================================
+
+Není-li uvedeno jinak, dritelem veškerıch autorskıch práv
+na dokumentaci a software zahrnutı v distribuèním balíèku Precision Helper
+je Precision software & consulting.
+
+Copyright (c) 2008-2011  Precision software & consulting.
+Všechna práva vyhrazena.
+
+
+Záruka:
+-------
+Tento software je poskytován "tak jak je", bez jakékoliv vıslovné
+èi pøedpokládané záruky. Precision software & consulting nenese v ádném
+pøípadì odpovìdnost za škodu, vzniklou pouíváním tohoto produktu,
+a by byla jakákoli.
+
+
+Oprávnìní:
+----------
+1. Tento software je distribuován jako FREEWARE. Kdokoliv má právo
+   jej pouívat pro osobní, vzdìlávací nebo komerèní úèely.
+
+Omezení:
+--------
+1. Tento software smíte redistribuovat, ale distribuèní balíèek nesmí bıt
+   ÁDNİM ZPÙSOBEM modifikován. Všechny kopie distribuèního balíèku musí
+   obsahovat informace o vıše uvedenıch autorskıch právech a také odkazy
+   na webové stránky spoleènosti, které jsou uvedeny buï v tomto ujednání
+   (viz níe) nebo v informaèním oknì samotné aplikace nebo v dokumentaci
+   produktu.
+
+2. Nesmíte napodobovat, klonovat, pronajímat, prodávat, upravovat,
+   dekompilovat, zpìtnì pøekládat, ani jinak zpìtnì rekonstruovat jakoukoliv
+   verzi nebo èást tohoto software. Kadé takové neoprávnìné pouití má
+   za následek okamité a automatické ukonèení platnosti této licence a mùe
+   vést k trestnímu stíhání èi obèansko-právní alobì.
+
+
+Precision software & consulting
+e-mail: info@be-precision.com
+www:    http://www.be-precision.com

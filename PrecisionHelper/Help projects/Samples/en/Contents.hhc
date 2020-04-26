@@ -1,0 +1,310 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+      <param name="Window Styles" value="0x00800025">
+      <param name="comment" value="title:Precision Helper - Help">
+      <param name="comment" value="base:topics\default.htm">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Welcome">
+          <param name="Local" value="topics\default.htm">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Change log">
+              <param name="Local" value="topics\ChangeLog.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Main features">
+          <param name="Local" value="topics\Highlights.htm">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Full features list">
+              <param name="Local" value="topics\Features.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="System requirements">
+              <param name="Local" value="topics\SysReq.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Installation">
+              <param name="Local" value="topics\Installation.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="The User interface">
+          <param name="Local" value="topics\GUI.htm">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Basic elements of user interface">
+              <param name="Local" value="topics\mainForm.htm">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Main menu">
+                  <param name="Local" value="topics\mainMenu.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Quick access toolbar">
+                  <param name="Local" value="topics\quickBar.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Ribbon bar">
+                  <param name="Local" value="topics\ribbonBar.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Tab Bar">
+                  <param name="Local" value="topics\tabBar.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Navigation pane">
+                  <param name="Local" value="topics\navBar.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Properties panel">
+                  <param name="Local" value="topics\helpBar.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Status Bar">
+                  <param name="Local" value="topics\statusBar.htm">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Navigation panels">
+              <param name="Local" value="topics\navBar.htm">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Table of contents">
+                  <param name="Local" value="topics\navBar_TOC.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Index of keywords">
+                  <param name="Local" value="topics\navBar_IDX.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Context help">
+                  <param name="Local" value="topics\navBar_MAP.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Included files">
+                  <param name="Local" value="topics\navBar_Files.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Settings">
+                  <param name="Local" value="topics\navBar_Others.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Projects list">
+                  <param name="Local" value="topics\ProjectsList.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Builds list">
+                  <param name="Local" value="topics\navBar_Builds.htm">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Page types (tabs)">
+              <param name="Local" value="topics\tabBar.htm">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Welcome page">
+                  <param name="Local" value="topics\HomePage.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Project properties">
+                  <param name="Local" value="topics\pageProject.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Topic">
+                  <param name="Local" value="topics\pageTopic.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Context help">
+                  <param name="Local" value="topics\pageMap.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Included files">
+                  <param name="Local" value="topics\pageFiles.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Merge files">
+                  <param name="Local" value="topics\pageMergeFiles.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Window types">
+                  <param name="Local" value="topics\pageWinTypes.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Other sections">
+                  <param name="Local" value="topics\pageUSec.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Build">
+                  <param name="Local" value="topics\pageBuilds.htm">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Properties panel tabs">
+              <param name="Local" value="topics\helpBar.htm">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Help">
+                  <param name="Local" value="topics\helpBar_Help.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Search">
+                  <param name="Local" value="topics\helpBar_Search.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Object Inspector">
+                  <param name="Local" value="topics\helpBar_OI.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Log file">
+                  <param name="Local" value="topics\helpBar_Log.htm">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Publishing the help">
+              <param name="Local" value="topics\Publishing.htm">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Export into a WebHelp">
+                  <param name="Local" value="topics\toolsExportWebHelp.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Export into the ePUB (e-book) format">
+                  <param name="Local" value="topics\toolsExportePUB.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Export into the single html document">
+                  <param name="Local" value="topics\toolsExportSingleDoc.htm">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Wizards and tools">
+              <param name="Local" value="topics\Tools.htm">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Automatic insertion of topics">
+                  <param name="Local" value="topics\toolsTOCGen.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Automatic insertion of keywords">
+                  <param name="Local" value="topics\toolsIDXGen.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="API Tester">
+                  <param name="Local" value="topics\toolsAPITester.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="CHM Viewer">
+                  <param name="Local" value="topics\toolsCHMViewer.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Import CHM">
+                  <param name="Local" value="topics\toolsImportCHM.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Import (locate) projects">
+                  <param name="Local" value="topics\toolsLocatePrj.htm">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Other windows and dialogs">
+              <param name="Local" value="topics\Dialogs.htm">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Project file selection dialog">
+                  <param name="Local" value="topics\dialogPrjFiles.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Keyword selection">
+                  <param name="Local" value="topics\dialogKeySel.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Options">
+                  <param name="Local" value="topics\dialogOptions.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Compilation progress">
+                  <param name="Local" value="topics\dialogCompile.htm">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="About box">
+                  <param name="Local" value="topics\dialogAbout.htm">
+                </OBJECT>
+            </UL>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Customization options">
+          <param name="Local" value="topics\Customization.htm">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Topic and project templates">
+              <param name="Local" value="topics\TemplatesTP.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Syntax schemes for topic editor">
+              <param name="Local" value="topics\TemplatesCC.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Application extensions (add-ons)">
+              <param name="Local" value="topics\Extensions.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="How to do it?">
+          <param name="Local" value="topics\HowToDoIt.htm">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Changing the layout of user interface">
+              <param name="Local" value="topics\ChangeUI.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Export into the Adobe PDF format">
+              <param name="Local" value="topics\ExportPDF.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Other informations">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Command-line parameters">
+              <param name="Local" value="topics\CmdLine.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Additional help resources">
+              <param name="Local" value="topics\OtherRefs.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Third-party components and libraries">
+              <param name="Local" value="topics\Credits.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="License agreement">
+              <param name="Local" value="topics\License.htm">
+            </OBJECT>
+        </UL>
+    </UL>
+</BODY>
+</HTML>

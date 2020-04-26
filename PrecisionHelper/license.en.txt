@@ -1,0 +1,39 @@
+Precision Helper - License agreement
+====================================
+
+Except where otherwise noted, all of the documentation and software
+included in the Precision Helper package is copyrighted
+by Precision software & consulting.
+
+Copyright (c) 2008-2011  Precision software & consulting.
+All rights reserved.
+
+
+Liability disclaimer:
+---------------------
+This software is provided "as-is," without any express or implied warranty.
+In no event shall the author be held liable for any damages arising from the
+use of this software.
+
+Permissions:
+------------
+1. This software is distributed as a FREEWARE. Permission is granted to anyone
+   to use this software in personal, educational or corporate environment.
+
+Restrictions:
+-------------
+1. You may redistribute this software, but the distribution package must not
+   be modified in ANY WAY. All redistributions of this package must retain
+   all occurrences of the above copyright notice and web links that are
+   currently in place (for example, in the about boxes or documentation).
+   
+2. You must not emulate, clone, rent, lease, sell, modify, decompile,
+   disassemble, otherwise reverse engineer, or transfer any version
+   of the software, or any subset of it. Any such unauthorized use shall result
+   in immediate and automatic termination of this license and may result
+   in criminal and/or civil prosecution.
+
+
+Precision software & consulting
+e-mail: info@be-precision.com
+www:    http://www.be-precision.com

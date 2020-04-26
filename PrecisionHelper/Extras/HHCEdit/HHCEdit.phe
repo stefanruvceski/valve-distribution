@@ -1,0 +1,69 @@
+﻿[Precision Helper Extension]
+; Interface: 
+; pascalscript - PascalScript code
+; cmdline      - Run an external program with the specified command-line parameters (See 'Application' and 'Command-line' sections for more info)
+Interface=cmdline
+
+Caption=Edit HHC
+Caption.cs=Upravit HHC
+Hint=Open the table of contents source file in an external html editor
+Hint.cs=Otevřít zdrojový soubor obsahu v externím html editoru
+
+[Script]
+ExecOnLoad=0
+
+[Application]
+; Application to execute. Can be an exact path, or path with environment variables, or can contain one of the following macros:
+; %X% - Macro that runs one of the tools predefined in Precision Helper (X can be: 1 - Html editor, 2 - Web browser, 4 - Image editor, 5 - File manager).
+; %ENVIRONMENT_VARIABLE% - Any environment variable
+; %REG:HKxx\KeyPath,ValueName|DefaultValue% - Value from registry
+; %APPEXTRAS% - Extensions folder of Precision Helper
+; %APPTEMPLATES% - Templates folder of Precision Helper
+; %APPFOLDER% - Folder that contains PrecisionHelper.exe file
+; %APPTEMP% - Temporary folder of Precision Helper (ie. ...\Precision Helper\Temp\...)
+; %PROJECTFILE% - Current project file
+; %PROJECTFOLDER% - Folder of the current project
+; %APPSAMPLES% - Samples folder of Precision Helper
+
+%1%
+
+[Command-line]
+; Command-line parameters. Can contain macros mentioned in [Application] section (except the %X%) and the following macros:
+; %1 - filename of currently selected item in Precision Helper (topic in TOC, topic in Index, file in Include files section, etc.)
+; %2 - Source file name of the project (HHP)
+; %3 - Target CHM file of the project
+; %4 - Source file name of table of content (HHC)
+; %5 - Source file name of index of keywords (HHK)
+; %6 - Current installation folder of this extension
+; %7 - Current options file name of this extension
+Parameters="%4"
+
+; Precision Helper waits until the executed extension will be closed. Do not use this when you work with both programs side by side.
+; Not available when using the %X% macro in [Application] section
+waitfor=0
+
+; Saves the TOC before execution
+saveTOC=1
+; Saves the IDX before execution
+saveIDX=0
+; Saves the whole project before execution
+saveProject=0
+; Saves the current topic before execution
+saveTopic=0
+
+; When the extension is executed, Precision Helper will reload the TOC after its next activation.
+; If 'waitfor=1' then TOC will be reloaded after closing the extension application
+reloadTOC=1
+; Similar to reloadTOC, but applies to Index of keywords
+reloadIDX=0
+; Similar to reloadTOC, but applies to the whole project
+reloadProject=0
+; Similar to reloadTOC, but applies to the current topic
+reloadTopic=0
+
+[IDE]
+; Parts of the Precision Helper IDE, where the extension should be available
+ribbonTOC=1
+ribbonIDX=0
+ribbonPUB=0
+

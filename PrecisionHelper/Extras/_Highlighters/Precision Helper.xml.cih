@@ -1,0 +1,153 @@
+[Keywords]
+
+[InsertList]
+<?xml version="1.0" encoding="|"?>
+<?xml-stylesheet href="|" type="text/xsl"?>
+<xsl:apply-imports />
+<xsl:apply-templates select="*">|</xsl:apply-templates>
+<xsl:attribute name="">|</xsl:attribute>
+<xsl:attribute-set name="">|</xsl:attribute-set>
+<xsl:call-template name="">|</xsl:call-template>
+<xsl:choose>|</xsl:choose>
+<xsl:comment>|</xsl:comment>
+<xsl:copy>|</xsl:copy>
+<xsl:copy-of select="|" />
+<xsl:decimal-format |/>
+<xsl:element name="">|</xsl:element>
+<xsl:fallback>|</xsl:fallback>
+<xsl:for-each select="*">|</xsl:for-each>
+<xsl:if test="">|</xsl:if>
+<xsl:import href="|" />
+<xsl:include href="|" />
+<xsl:key name="|" match="" use="" />
+<xsl:message>|</xsl:message>
+<xsl:namespace-alias stylesheet-prefix="|" result-prefix="" />
+<xsl:number |/>
+<xsl:otherwise>|</xsl:otherwise>
+<xsl:output method="html|" />
+<xsl:param name="">|</xsl:param>
+<xsl:preserve-space elements="|" />
+<xsl:processing-instruction name="">|</xsl:processing-instruction>
+<xsl:sort select="|" />
+<xsl:strip-space elements="|" />
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">|</xsl:stylesheet>
+<xsl:template match="*">|</xsl:template>
+<xsl:text>|</xsl:text>
+<xsl:transform version="1.0">|</xsl:transform>
+<xsl:value-of select="|" />
+<xsl:variable name="">|</xsl:variable>
+<xsl:when test="">|</xsl:when>
+<xsl:with-param name="">|</xsl:with-param>
+current(|)
+document(|)
+element-available(|)
+format-number(|)
+function-available(|)
+generate-id(|)
+key(|)
+msxsl:node-set(|)
+system-property(|)
+unparsed-entity-uri(|)
+boolean(|)
+false(|)
+lang(|)
+not(|)
+true(|)
+count(|)
+id(|)
+last(|)
+local-name(|)
+name(|)
+namespace-uri(|)
+position(|)
+ceiling(|)
+floor(|)
+number(|)
+round(|)
+sum(|)
+concat(|)
+contains(|)
+normalize-space(|)
+starts-with(|)
+string(|)
+string-length(|)
+substring(|)
+substring-after(|)
+substring-before(|)
+translate(|)
+
+[ItemList]
+\image{10}\style{+B}xml\style{-B} : xml processing instruction
+\image{10}\style{+B}xml-stylesheet\style{-B} : xml-stylesheet processing instruction
+\image{10}\style{+B}xsl:apply-imports\style{-B} : Applies a template rule from an imported style sheet
+\image{10}\style{+B}xsl:apply-templates\style{-B} : Applies a template rule to the current element or to the current element's child nodes
+\image{10}\style{+B}xsl:attribute\style{-B} : Adds an attribute
+\image{10}\style{+B}xsl:attribute-set\style{-B} : Defines a named set of attributes
+\image{10}\style{+B}xsl:call-template\style{-B} : Calls a named template
+\image{10}\style{+B}xsl:choose\style{-B} : Used in conjunction with <when> and <otherwise> to express multiple conditional tests
+\image{10}\style{+B}xsl:comment\style{-B} : Creates a comment node in the result tree
+\image{10}\style{+B}xsl:copy\style{-B} : Creates a copy of the current node (without child nodes and attributes)
+\image{10}\style{+B}xsl:copy-of\style{-B} : Creates a copy of the current node (with child nodes and attributes)
+\image{10}\style{+B}xsl:decimal-format\style{-B} : Defines the characters and symbols to be used when converting numbers into strings, with the format-number() function
+\image{10}\style{+B}xsl:element\style{-B} : Creates an element node in the output document
+\image{10}\style{+B}xsl:fallback\style{-B} : Specifies an alternate code to run if  the processor does not support an XSLT element
+\image{10}\style{+B}xsl:for-each\style{-B} : Loops through each node in a specified node set
+\image{10}\style{+B}xsl:if\style{-B} : Contains a template that will be applied only if a specified condition is true
+\image{10}\style{+B}xsl:import\style{-B} : Imports the contents of one style sheet into another. Note: An imported style sheet has lower precedence than the importing style sheet
+\image{10}\style{+B}xsl:include\style{-B} : Includes the contents of one style sheet into another. Note: An included style sheet has the same precedence as the including style sheet
+\image{10}\style{+B}xsl:key\style{-B} : Declares a named key that can be used in the style sheet with the key() function
+\image{10}\style{+B}xsl:message\style{-B} : Writes a message to the output (used to report errors)
+\image{10}\style{+B}xsl:namespace-alias\style{-B} : Replaces a namespace in the style sheet to a different namespace in the output
+\image{10}\style{+B}xsl:number\style{-B} : Determines the integer position of the current node and formats a number
+\image{10}\style{+B}xsl:otherwise\style{-B} : Specifies a default action for the <choose> element
+\image{10}\style{+B}xsl:output\style{-B} : Defines the format of the output document
+\image{10}\style{+B}xsl:param\style{-B} : Declares a local or global parameter
+\image{10}\style{+B}xsl:preserve-space\style{-B} : Defines the elements for which white space should be preserved
+\image{10}\style{+B}xsl:processing-instruction\style{-B} : Writes a processing instruction to the output
+\image{10}\style{+B}xsl:sort\style{-B} : Sorts the output
+\image{10}\style{+B}xsl:strip-space\style{-B} : Defines the elements for which white space should be removed
+\image{10}\style{+B}xsl:stylesheet\style{-B} : xsl stylesheet - Defines the root element of a style sheet
+\image{10}\style{+B}xsl:template\style{-B} : xsl template - rules to apply when a specified node is matched
+\image{10}\style{+B}xsl:text\style{-B} : Writes literal text to the output
+\image{10}\style{+B}xsl:transform\style{-B} : Defines the root element of a style sheet
+\image{10}\style{+B}xsl:value-of\style{-B} : Extracts the value of a selected node
+\image{10}\style{+B}xsl:variable\style{-B} : Declares a local or global variable
+\image{10}\style{+B}xsl:when\style{-B} : Specifies an action for the <choose> element
+\image{10}\style{+B}xsl:with-param\style{-B} : Defines the value of a parameter to be passed into a template
+\image{6}\style{+B}current\style{-B}() : Returns the current node
+\image{6}\style{+B}document\style{-B}() : Used to access the nodes in an external XML document
+\image{6}\style{+B}element-available\style{-B}() : Tests whether the element specified is supported by the XSLT processor
+\image{6}\style{+B}format-number\style{-B}() : Converts a number into a string
+\image{6}\style{+B}function-available\style{-B}() : Tests whether the function specified is supported by the XSLT processor
+\image{6}\style{+B}generate-id\style{-B}() : Returns a string value that uniquely identifies a specified node
+\image{6}\style{+B}key\style{-B}() : Returns a node-set using the index specified by an <xsl:key> element
+\image{6}\style{+B}msxsl:node-set\style{-B}() : Returns a node-set by using the msxsl namespace
+\image{6}\style{+B}system-property\style{-B}() : Returns the value of the system properties
+\image{6}\style{+B}unparsed-entity-uri\style{-B}() : Returns the URI of an unparsed entity
+\image{6}\style{+B}boolean\style{-B}() : XPath function
+\image{6}\style{+B}false\style{-B}() : XPath function
+\image{6}\style{+B}lang\style{-B}() : XPath function
+\image{6}\style{+B}not\style{-B}() : XPath function
+\image{6}\style{+B}true\style{-B}() : XPath function
+\image{6}\style{+B}count\style{-B}() : XPath function
+\image{6}\style{+B}id\style{-B}() : XPath function
+\image{6}\style{+B}last\style{-B}() : XPath function
+\image{6}\style{+B}local-name\style{-B}() : XPath function
+\image{6}\style{+B}name\style{-B}() : XPath function
+\image{6}\style{+B}namespace-uri\style{-B}() : XPath function
+\image{6}\style{+B}position\style{-B}() : XPath function
+\image{6}\style{+B}ceiling\style{-B}() : XPath function
+\image{6}\style{+B}floor\style{-B}() : XPath function
+\image{6}\style{+B}number\style{-B}() : XPath function
+\image{6}\style{+B}round\style{-B}() : XPath function
+\image{6}\style{+B}sum\style{-B}() : XPath function
+\image{6}\style{+B}concat\style{-B}() : XPath function
+\image{6}\style{+B}contains\style{-B}() : XPath function
+\image{6}\style{+B}normalize-space\style{-B}() : XPath function
+\image{6}\style{+B}starts-with\style{-B}() : XPath function
+\image{6}\style{+B}string\style{-B}() : XPath function
+\image{6}\style{+B}string-length\style{-B}() : XPath function
+\image{6}\style{+B}substring\style{-B}() : XPath function
+\image{6}\style{+B}substring-after\style{-B}() : XPath function
+\image{6}\style{+B}substring-before\style{-B}() : XPath function
+\image{6}\style{+B}translate\style{-B}() : XPath function

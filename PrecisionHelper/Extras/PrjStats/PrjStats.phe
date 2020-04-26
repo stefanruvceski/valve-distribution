@@ -1,0 +1,19 @@
+﻿[Precision Helper Extension]
+Interface=pascalscript
+
+Caption=Stats
+Hint=Shows some statistics about the project
+
+Caption.cs=Statistiky
+Hint.cs=Statistiky projektu
+
+[Script]
+ExecOnLoad=0
+
+[IDE]
+ribbonHOME=1
+ribbonTOC=0
+ribbonIDX=0
+ribbonPUB=0
+ribbonTOOLS=0
+ribbonHELP=0

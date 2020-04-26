@@ -1,0 +1,20 @@
+﻿[Precision Helper Extension]
+Interface=pascalscript
+
+Caption=HTML Tidy
+Hint=Check, clean up and reformat the topic by HTML Tidy tool
+
+Caption.cs=HTML Tidy
+Hint.cs=Kontrola, vyčištění a přeformátování tématu pomocí nástroje HTML Tidy
+
+[Script]
+ExecOnLoad=0
+
+[IDE]
+ribbonHOME=0
+ribbonTOC=1
+ribbonIDX=1
+ribbonPUB=0
+ribbonTOOLS=0
+ribbonHELP=0
+TopicSource=1
